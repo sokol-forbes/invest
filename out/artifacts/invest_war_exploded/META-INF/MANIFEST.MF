@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: Windows 10
+Build-Jdk: Oracle OpenJDK version 18.0.1
+Implementation-Title: invest
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: ru.sokolovsky
+Main-Class: ${start-class}
+
